@@ -12,8 +12,8 @@ Finance Manager — это программа для учета личных ф�
 ### Установка
 1. Клонируйте репозиторий:
    ```bash
-   [git clone https://github.com/ваш-username/Finance-Manager.git
-   cd Finance-Manager](https://github.com/MUIVSPO/firstpet-zazcharlcya/tree/main)
+   [git clone [https://github.com/MUIVSPO/firstpet-zazcharlcya/tree/main]Finance-Manager.git
+   cd Finance-Manager]
    
 2. Установите необходимые зависимости:
      pip install -r requirements.txt
